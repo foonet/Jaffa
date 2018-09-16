@@ -1,4 +1,4 @@
-// ZmEu (zmeu@whitehat.ro) 09092018
+// ZmEu (zmeu_at_whitehat.ro) 09092018
 //  - detaches from terminal and runs in background with first option 1/0 if to not chdir("/") and second option
 //    is 1/0 if to keep standard file handles open
 // gcc -o daemon daemon.c && ./daemon 1 1 /usr/bin/id
