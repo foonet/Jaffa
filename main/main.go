@@ -48,7 +48,7 @@ func main() {
 	//log.Info("Jaffa " + version)
 	log.Info("Jaffa v0.2 - DNS server/forwarder/dispatcher written in Go.")
 	//log.Info("If you need any help, please visit the project repository: https://github.com/foonet/jaffa")
-	log.Info("ZmEu (zmeu@whitehat.ro)")
+	log.Info("ZmEu (zmeu_at_whitehat.ro)")
 
 	runtime.GOMAXPROCS(processorNumber)
 
